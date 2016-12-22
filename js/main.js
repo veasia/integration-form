@@ -1,5 +1,5 @@
 var endpoint = 'https://api.veinteractive.com/IntegrationsApiSandbox/Install';
-var key = '410babbf5fec48e1b683f42d0d938b4e';	
+var key = 'Request your own key at developers.veinteractive.com';	
 
 function submit() {
 	var payload = {
